@@ -1,0 +1,29 @@
+.reviews-section {
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  .review-card {
+    background-color: #333; /* Dark background for the cards */
+    border: 1px solid #444;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .review-text {
+    font-size: 1.2rem;
+    color: #ccc; /* Slightly lighter color for the text */
+  }
+  
+  .review-author {
+    font-size: 1rem;
+    color: #bbb; /* Slightly lighter color for the author */
+  }
+  
+  .review-rating {
+    font-size: 1.5rem;
+    color: gold;
+  }
+  

@@ -1,0 +1,69 @@
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer p {
+    font-size: 1rem;
+    color: #ccc;
+  }
+  
+  .footer p a {
+    color: red;
+    text-decoration: none;
+  }
+  
+  .contact-card {
+    background-color: #333;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .contact-card h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .contact-card p {
+    font-size: 1rem;
+    color: #ccc;
+  }
+  
+  .contact-card .form-control {
+    background-color: #444;
+    color: white;
+    border: 1px solid #555;
+    margin-bottom: 15px;
+  }
+  
+  .contact-card .form-control::placeholder {
+    color: #aaa; /* Light grey for placeholder text */
+  }
+  
+  .contact-card .btn-primary {
+    background-color: red;
+    border-color: red;
+  }
+  
+  .contact-card .btn-primary:hover {
+    background-color: darkred;
+    border-color: darkred;
+  }
+  
+  .contact-card .social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .contact-card .social-icons a {
+    color: white;
+    font-size: 1.5rem;
+  }
+  
